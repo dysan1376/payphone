@@ -1,12 +1,12 @@
 {
-	"name": "payphone/php",
+	"name": "payphone/payphone-php-sdk",
 	"description": "PayPhone PHP SDK",
 	"require": {
 		"php": ">=5.3.0"
 	},
 	"autoload": {
 		"classmap": [
-			"Configuration.php"
+			"library/Configuration.php"
 		]
 	}
 }
